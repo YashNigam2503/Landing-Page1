@@ -1,0 +1,24 @@
+.flex{
+    display: flex;
+    justify-content: left;
+    
+}
+
+.items-centre{
+
+   align-items: justify;
+
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+  }
